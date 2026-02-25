@@ -2,7 +2,7 @@
 
 
 
-# medialave.xyz  
+# medialave.io
 
 ### Creative works marketplace, powered with Mediolano’s permissionless licensing primitives, enabling creators to explore and monetize IP with full sovereignty
 
@@ -17,9 +17,6 @@ MediaLane supports multiple types of creative works: music, posts, photos, video
 Every creator has complete ownership over their assets, decentralized identity, and reputation systems. Licensing actions are transparent, traceable, and immutable. MediaLane is designed to serve creators, businesses, and AI agents — without intermediaries, without friction, and without compromise.
 
 Open Dapp: 
-https://medialane.xyz
+https://medialane.io
 
 Built on the Mediolano Protocol, MediaLane is empowering a new era of content creation and monetization, powered on Starknet.
-
-Discover Mediolano:
-https://mediolano.xyz
