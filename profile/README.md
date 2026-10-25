@@ -60,7 +60,6 @@ Medialane is where creative work becomes programmable intellectual property: cre
 | [medialane-backend](https://github.com/medialane-io/medialane-backend) | The indexer and public API behind the apps |
 | [medialane-docs](https://github.com/medialane-io/medialane-docs) | docs.medialane.io |
 | [medialane-dao](https://github.com/medialane-io/medialane-dao) | medialane.org |
-| [medialane-wordpress](https://github.com/medialane-io/medialane-wordpress) | WordPress plugin to tokenize, protect and license posts |
 
 Medialane builds on the [Mediolano protocol](https://github.com/mediolano-os/mediolano-contracts), an independent public-goods protocol for programmable IP.
 
